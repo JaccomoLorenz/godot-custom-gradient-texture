@@ -1,6 +1,6 @@
 # Godot Custom Gradient Texture
 
-A simple resource for the godot game engine that allows to create linear, radial and triangular gradient textures unlike the the build-in gradient texture.
+A simple resource for the godot game engine that allows to create linear, radial and rectangular gradient textures unlike the the build-in gradient texture (at this point of time).
 
 ##### Note:
 
@@ -8,4 +8,4 @@ A simple resource for the godot game engine that allows to create linear, radial
 - generating big textures can take 2-3 seconds
 
 ## How to create and use the texture:
-![Image](/assets/maujoe.custom_gradient_texture/info.jpg)
+![See info.jpg](/assets/maujoe.custom_gradient_texture/info.jpg)
